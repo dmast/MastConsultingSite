@@ -10,9 +10,7 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
-DATABASES = {
-    'default': dj_database_url.config(default='postgres://foo:bar@localhost:5432/db')
-}
+DATABASES = {'default': dj_database_url.config(default='postgres://david:test1234@localhost:5432/mastconsultingdb')}
 
 
 # Local time zone for this installation. Choices can be found here:
@@ -101,6 +99,7 @@ TEMPLATE_DIRS = (
 # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
 # Always use forward slashes, even on Windows.
 # Don't forget to use absolute paths, not relative paths.
+
 )
 
 INSTALLED_APPS = (
@@ -113,7 +112,9 @@ INSTALLED_APPS = (
     # Uncomment the next line to enable the admin:
     'django.contrib.admin',
     # Uncomment the next line to enable admin documentation:
-    # 'django.contrib.admindocs',
+    #'django.contrib.admindocs',
+    'polls',
+    'bootstrap_toolkit',
     )
 
 # A sample logging configuration. The only tangible logging
