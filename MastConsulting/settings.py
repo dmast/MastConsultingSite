@@ -1,8 +1,10 @@
 # Django settings for MastConsulting project.
 import dj_database_url
+import os.path
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
+PROJECT_DIR = os.path.dirname(__file__)
 
 ADMINS = (
 # ('Your Name', 'your_email@example.com'),
@@ -96,8 +98,9 @@ ROOT_URLCONF = 'MastConsulting.urls'
 WSGI_APPLICATION = 'MastConsulting.wsgi.application'
 
 TEMPLATE_DIRS = (
-    "/Users/david/Documents/code/MastConsulting/MastConsulting/bootstrap_toolkit/templates",
-    "/Users/david/Documents/code/MastConsulting/MastConsulting/templates"
+    os.path.join(PROJECT_DIR, "templates"),
+    #"/Users/david/Documents/code/MastConsulting/MastConsulting/bootstrap_toolkit/templates",
+    #"/Users/david/Documents/code/MastConsulting/MastConsulting/templates"
 # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
 # Always use forward slashes, even on Windows.
 # Don't forget to use absolute paths, not relative paths.

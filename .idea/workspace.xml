@@ -2,83 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc7ab5dd-c4cf-4ebb-963a-01e3c4b6aa1b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/bootstrap_toolkit/js/init_datepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/css/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/bootstrap-datepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.bg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.cs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.da.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.de.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.es.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.fi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.fr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.it.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ja.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.kr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.lt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.lv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ms.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.nb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.nl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.pl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.pt-BR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.pt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.rs-latin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.rs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ru.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.sk.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.sl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.sv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.th.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.tr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.zh-CN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.zh-TW.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_checkbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_choices.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_errors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_help.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_horizontal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_inline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_prepend_append.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_vertical.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/field_visible.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/messages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/nav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/non_field_error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/non_field_errors.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/pagination.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/pills.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/tabs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templatetags/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templatetags/bootstrap_toolkit.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/widgets.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/templates/base.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/templates/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/templates/form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/templates/form_inline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/templates/form_using_template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/templates/pagination.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MastConsulting/templates/tabs.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MastConsulting/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Resume/views.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Resume/__init__.py" afterPath="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Resume/models.py" afterPath="$PROJECT_DIR$/MastConsulting/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/bootstrap_toolkit/js/init_datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/css/datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.kr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.pt-BR.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.rs-latin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.rs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.zh-CN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.zh-TW.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_checkbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_choices.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_errors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_help.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_horizontal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_inline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_prepend_append.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_vertical.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_visible.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/messages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/nav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/non_field_error.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/non_field_errors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/pagination.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/pills.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/tabs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templatetags/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templatetags/bootstrap_toolkit.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/widgets.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MastConsulting/settings.py" afterPath="$PROJECT_DIR$/MastConsulting/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MastConsulting/urls.py" afterPath="$PROJECT_DIR$/MastConsulting/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/polls/models.py" afterPath="$PROJECT_DIR$/polls/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
     </list>
     <ignored path="MastConsulting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,7 +83,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MastConsulting/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="-6.1538463">
+            <state line="11" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="-0.46153846">
               <folding />
             </state>
           </provider>
@@ -110,8 +92,10 @@
       <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MastConsulting/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="92" selection-start="3466" selection-end="3466" vertical-scroll-proportion="0.8769231">
-              <folding />
+            <state line="102" column="5" selection-start="3572" selection-end="3572" vertical-scroll-proportion="0.6974359">
+              <folding>
+                <element signature="e#46#68#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -435,14 +419,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="703" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18638574" sideWeight="0.71649486" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18638574" sideWeight="0.71649486" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.49756888" order="7" side_tool="true" content_ui="tabs" />
@@ -604,15 +588,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MastConsulting/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="-6.1538463">
+        <state line="11" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="-0.46153846">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MastConsulting/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="92" selection-start="3466" selection-end="3466" vertical-scroll-proportion="0.8769231">
-          <folding />
+        <state line="102" column="5" selection-start="3572" selection-end="3572" vertical-scroll-proportion="0.6974359">
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
