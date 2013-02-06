@@ -96,6 +96,8 @@ ROOT_URLCONF = 'MastConsulting.urls'
 WSGI_APPLICATION = 'MastConsulting.wsgi.application'
 
 TEMPLATE_DIRS = (
+    "/Users/david/Documents/code/MastConsulting/MastConsulting/bootstrap_toolkit/templates",
+    "/Users/david/Documents/code/MastConsulting/MastConsulting/templates"
 # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
 # Always use forward slashes, even on Windows.
 # Don't forget to use absolute paths, not relative paths.
