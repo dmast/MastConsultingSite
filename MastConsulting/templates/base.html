@@ -8,9 +8,18 @@
     <meta name="description" content="">
     <meta name="author" content="David Mast">
     {% bootstrap_stylesheet_tag %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/font-awesome.min.css">
     <style type="text/css">
         body {
             padding-top: 60px;
+            /* background: #bcc2d3; */
+        }
+            /* Remove border and change up box shadow for more contrast */
+        .navbar .navbar-inner {
+            border: 0;
+            -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+            -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+            box-shadow: 0 2px 10px rgba(0,0,0,.25);
         }
     </style>
     <!--[if lt IE 9]>
@@ -48,6 +57,12 @@
                 <li><a href="{% url pagination %}">Pagination</a></li>
                 -->
                 <li><a href="{% url contact %}">Contact</a></li>
+            </ul>
+            <ul class="nav pull-right">
+                <li><a href="mailto:dave.mast@gmail.com"><i class="icon-envelope"></i></a></li>
+                <li><a href="https://twitter.com/davemmast"><i class="icon-twitter"></i></a></li>
+                <li><a href="http://www.linkedin.com/pub/david-mast/a/904/744/"><i class="icon-linkedin"></i></a></li>
+                <li><a href="https://www.facebook.com/david.mast.77"><i class="icon-facebook"></i></a></li>
             </ul>
         </div>
     </div>
