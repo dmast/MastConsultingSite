@@ -1,6 +1,6 @@
 # Django settings for MastConsulting project.
-import dj_database_url
 import os.path
+from settings_secret import *
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -11,8 +11,6 @@ ADMINS = (
 )
 
 MANAGERS = ADMINS
-
-DATABASES = {'default': dj_database_url.config(default='postgres://david:test1234@localhost:5432/mastconsultingdb')}
 
 
 # Local time zone for this installation. Choices can be found here:
@@ -72,8 +70,6 @@ STATICFILES_FINDERS = (
     #    'django.contrib.staticfiles.finders.DefaultStorageFinder',
     )
 
-# Make this unique, and don't share it with anybody.
-SECRET_KEY = '^v^d0g32vr=1hhob9=ythb$ew6q3#a*1a5$68n-gu3h9f1(7v1'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
