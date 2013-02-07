@@ -1,6 +1,6 @@
 # Django settings for MastConsulting project.
-import dj_database_url
 import os.path
+from settings_secret import *
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
@@ -12,7 +12,7 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
-DATABASES = {'default': dj_database_url.config(default='postgres://david:test1234@localhost:5432/mastconsultingdb')}
+
 
 
 # Local time zone for this installation. Choices can be found here:
