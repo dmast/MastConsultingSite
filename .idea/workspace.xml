@@ -2,65 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc7ab5dd-c4cf-4ebb-963a-01e3c4b6aa1b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/bootstrap_toolkit/js/init_datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/css/datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/bootstrap-datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.is.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.kr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.rs-latin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.rs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/static/datepicker/js/locales/bootstrap-datepicker.zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_checkbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_choices.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_errors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_horizontal.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_inline.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_prepend_append.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_search.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_vertical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/field_visible.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/messages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/non_field_error.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/non_field_errors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/pagination.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/pills.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templates/bootstrap_toolkit/tabs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templatetags/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/templatetags/bootstrap_toolkit.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main_app/bootstrap_toolkit/widgets.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MastConsulting/settings.py" afterPath="$PROJECT_DIR$/MastConsulting/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MastConsulting/settings_secret.py" afterPath="$PROJECT_DIR$/MastConsulting/settings_secret.py" />
     </list>
     <ignored path="MastConsulting.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,54 +20,48 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MastConsulting/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="-0.46153846">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MastConsulting/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="5" selection-start="3572" selection-end="3572" vertical-scroll-proportion="0.6974359">
-              <folding>
-                <element signature="e#46#68#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MastConsulting/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="30" column="40" selection-start="1353" selection-end="1353" vertical-scroll-proportion="-12.16">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MastConsulting/templates/base.html">
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MastConsulting/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="30" selection-start="1927" selection-end="1927" vertical-scroll-proportion="-4.2352943">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MastConsulting/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="32" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0">
+            <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#46#60#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings_secret.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MastConsulting/settings_secret.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings_secret.py.template" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MastConsulting/settings_secret.py.template">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="34" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -147,21 +84,25 @@
       <list>
         <option value="$PROJECT_DIR$/polls/admin.py" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/MastConsulting/views.py" />
         <option value="$PROJECT_DIR$/polls/views.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/polls/models.py" />
-        <option value="$PROJECT_DIR$/MastConsulting/urls.py" />
         <option value="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/base.html" />
+        <option value="$PROJECT_DIR$/MastConsulting/templates/contact.html" />
+        <option value="$PROJECT_DIR$/MastConsulting/views.py" />
+        <option value="$PROJECT_DIR$/MastConsulting/urls.py" />
         <option value="$PROJECT_DIR$/MastConsulting/templates/base.html" />
+        <option value="$PROJECT_DIR$/MastConsulting/templates/index.html" />
+        <option value="$PROJECT_DIR$/MastConsulting/settings_secret.py.template" />
         <option value="$PROJECT_DIR$/MastConsulting/settings.py" />
+        <option value="$PROJECT_DIR$/MastConsulting/settings_secret.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="703" />
+    <option name="height" value="708" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -189,7 +130,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -218,39 +158,42 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="polls" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MastConsulting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MastConsulting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="MastConsulting" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="416" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="418" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="preferences.sourceCode.Python" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="416" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="recentsLimit" value="5" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="restartRequiresConfirmation" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="421" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1216" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1216" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="421" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="418" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FullScreen" value="false" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="preferences.sourceCode.Python" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -262,12 +205,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MastConsulting/static" />
       <recent name="$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates" />
       <recent name="$PROJECT_DIR$/MastConsulting" />
       <recent name="$PROJECT_DIR$/Website/main_app/bootstrap_toolkit" />
       <recent name="$PROJECT_DIR$/Website" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MastConsulting/static/css" />
+      <recent name="$PROJECT_DIR$/MastConsulting/static" />
       <recent name="$PROJECT_DIR$/MastConsulting/templates" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/MastConsulting" />
@@ -305,25 +251,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <module name="MastConsulting" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -345,6 +272,25 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <module name="MastConsulting" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -361,6 +307,20 @@
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <configuration default="false" name="MastConsulting" type="Python.DjangoServer" factoryName="Django server">
@@ -418,23 +378,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="703" extended-state="6" />
+    <frame x="0" y="22" width="1280" height="708" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21231766" sideWeight="0.71724707" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18638574" sideWeight="0.71649486" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19124797" sideWeight="0.7189097" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.49756888" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28350514" sideWeight="0.5786062" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2810903" sideWeight="0.5786062" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15920398" sideWeight="0.98050916" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3291874" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -493,112 +453,109 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/COMPONENTS">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MastConsulting/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/polls/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="2" column="0" selection-start="38" selection-end="123" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MastConsulting/forms.py">
+    <entry file="file://$USER_HOME$/Python2_7_VirtualEnv/lib/python2.7/site-packages/django/shortcuts/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.826087">
-          <folding>
-            <element signature="e#0#24#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MastConsulting/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MastConsulting/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
+        <state line="2" column="47" selection-start="122" selection-end="129" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MastConsulting/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="32" selection-start="499" selection-end="499" vertical-scroll-proportion="0.0">
+        <state line="9" column="0" selection-start="432" selection-end="432" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MastConsulting/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templates/bootstrap_toolkit/nav.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="30" selection-start="1927" selection-end="1927" vertical-scroll-proportion="-4.2352943">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/bootstrap_toolkit/templatetags/bootstrap_toolkit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="221" column="7" selection-start="6318" selection-end="6318" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/static/img/glyphicons-halflings-white.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/static/img/glyphicons-halflings.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/static/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MastConsulting/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="-0.46153846">
+        <state line="29" column="0" selection-start="1308" selection-end="1308" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/static/font/fontawesome-webfont.ttf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="1" selection-start="3710" selection-end="3710" vertical-scroll-proportion="0.3985056" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/static/font/fontawesome-webfont.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-4.4433374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="40" selection-start="1353" selection-end="1353" vertical-scroll-proportion="-12.16">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/settings_secret.py.template">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="34" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MastConsulting/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="5" selection-start="3572" selection-end="3572" vertical-scroll-proportion="0.6974359">
+        <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#46#68#0" expanded="true" />
+            <element signature="e#46#60#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MastConsulting/settings_secret.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>

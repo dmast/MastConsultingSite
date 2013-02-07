@@ -1,5 +1,6 @@
 from django.conf.urls.defaults import patterns, include, url
 from django.views.generic.simple import direct_to_template
+from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
@@ -25,3 +26,4 @@ urlpatterns = patterns('',
     (r'^pagination$', 'MastConsulting.views.demo_pagination', {}, "pagination"),
     (r'^widgets$', 'MastConsulting.views.demo_widgets', {}, "widgets"),
 )
+urlpatterns += staticfiles_urlpatterns()

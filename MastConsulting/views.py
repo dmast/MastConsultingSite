@@ -5,6 +5,9 @@ from forms import TestForm, TestModelForm, TestInlineForm, WidgetsForm
 from bootstrap_toolkit.widgets import BootstrapUneditableInput
 from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage
 
+def index(request):
+    return render_to_response('index.html', RequestContext(request))
+
 def demo_form_with_template(request):
     layout = request.GET.get('layout')
     if not layout:

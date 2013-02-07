@@ -1,15 +1,25 @@
 <!DOCTYPE html>
 {% load bootstrap_toolkit %}
+{% load staticfiles %}
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>django-bootstrap-toolkit = Bootstrap support for Django</title>
+    <title>Welcome to David Mast's website</title>
     <meta name="description" content="">
-    <meta name="author" content="Dylan Verheul">
+    <meta name="author" content="David Mast">
     {% bootstrap_stylesheet_tag %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}css/font-awesome.min.css">
     <style type="text/css">
         body {
             padding-top: 60px;
+            /* background: #bcc2d3; */
+        }
+            /* Remove border and change up box shadow for more contrast */
+        .navbar .navbar-inner {
+            border: 0;
+            -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+            -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+            box-shadow: 0 2px 10px rgba(0,0,0,.25);
         }
     </style>
     <!--[if lt IE 9]>
@@ -25,23 +35,34 @@
 <div class="navbar navbar-fixed-top">
     <div class="navbar-inner">
         <div class="container">
-            <a class="brand" href="/">django-bootstrap-toolkit</a>
+            <a class="brand" href="/">
+
+                David Mast</a>
             <ul class="nav">
-                <li><a href="{% url home %}" class="">Home</a></li>
+                <!-- <li><a href="{% url home %}" class="">Home</a></li> -->
                 <li><a href="{% url MastConsulting.views.demo_form %}">About Me</a></li>
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Forms<b class="caret"></b></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Work<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a class="nav" href="{% url MastConsulting.views.demo_form %}?layout=vertical">Vertical</a></li>
-                        <li><a href="{% url MastConsulting.views.demo_form %}?layout=horizontal">Horizontal</a></li>
-                        <li><a href="{% url MastConsulting.views.demo_form_inline %}?layout=inline">Inline</a></li>
+                        <li><a class="nav" href="{% url MastConsulting.views.demo_form %}?layout=vertical">Resume</a></li>
+                        <li><a href="{% url MastConsulting.views.demo_form %}?layout=horizontal">Github</a></li>
+                        <!-- <li><a href="{% url MastConsulting.views.demo_form_inline %}?layout=inline">Inline</a></li>
                         <li><a href="{% url MastConsulting.views.demo_form_inline %}?layout=search">Search</a></li>
                         <li><a href="{% url MastConsulting.views.demo_form_with_template %}?layout=horizontal">Using template</a></li>
+                        -->
                     </ul>
                 </li>
+                <!--
                 <li><a href="{% url tabs %}">Tabs &amp; Pills</a></li>
                 <li><a href="{% url pagination %}">Pagination</a></li>
+                -->
                 <li><a href="{% url contact %}">Contact</a></li>
+            </ul>
+            <ul class="nav pull-right">
+                <li><a href="mailto:dave.mast@gmail.com"><i class="icon-envelope"></i></a></li>
+                <li><a href="https://twitter.com/davemmast"><i class="icon-twitter"></i></a></li>
+                <li><a href="http://www.linkedin.com/pub/david-mast/a/904/744/"><i class="icon-linkedin"></i></a></li>
+                <li><a href="https://www.facebook.com/david.mast.77"><i class="icon-facebook"></i></a></li>
             </ul>
         </div>
     </div>
@@ -55,13 +76,15 @@
 
     <footer class="row">
         <div class="span6">
-            <p>This is <a href="https://github.com/dyve/django-bootstrap-toolkit">django-bootstrap-toolkit</a></p>
+            <!-- <p>This is <a href="https://github.com/dyve/django-bootstrap-toolkit">django-bootstrap-toolkit</a></p> -->
         </div>
         <div class="span6" style="text-align:right">
             <p>
-                &copy; <a href="http://twitter.com/dyve">Dylan Verheul</a> 2012
+                &copy; <a href="http://twitter.com/davemmast">David Mast</a> 2013
+                <!--
                 |
                 <a href="https://raw.github.com/dyve/django-bootstrap-toolkit/master/LICENSE">license</a>
+                -->
             </p>
         </div>
     </footer>
